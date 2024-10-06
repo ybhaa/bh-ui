@@ -1,0 +1,17 @@
+{
+  "name": "@bh-ui/components",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "./index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.3.1"
+  }
+}

@@ -1,0 +1,1 @@
+"use strict";Object.defineProperties(exports,{__esModule:{value:!0},[Symbol.toStringTag]:{value:"Module"}});const e=require("vue"),t=require("../../_virtual/_plugin-vue_export-helper.js"),n={};function r(c,l){return e.openBlock(),e.createElementBlock("div",null,"input")}const u=t.default(n,[["render",r]]);exports.default=u;
